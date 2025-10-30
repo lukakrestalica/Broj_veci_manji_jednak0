@@ -1,2 +1,10 @@
 # Broj_veci_manji_jednak0
-Provjera da li je broj veci,manji ili jednak 0
+
+someNumber = 10
+
+if(someNumber > 0):
+    print("Over zero")
+elif(someNumber < 0):
+    print("Bellow zero")
+else:
+    print("zero")
